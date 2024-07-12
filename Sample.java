@@ -4,6 +4,8 @@ public class Sample {
         // add a sout here
 
         // another sout
+        System.out.println("Hello ruwan");
+
     }
 
 }
