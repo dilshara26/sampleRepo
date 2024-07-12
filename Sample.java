@@ -6,6 +6,7 @@ public class Sample {
         // another sout
         System.out.println("Hello ruwan");
         System.out.println("Hello Sandaroo");
+        // hero view added
 
     }
 
